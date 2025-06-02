@@ -1,5 +1,7 @@
 Sideloadly IPA Automation Guide
 MacOS
+Note Uses EveeSpotify
+[https://github.com/whoeevee/EeveeSpotify](url)
 
 ---
 
